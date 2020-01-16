@@ -1,0 +1,4 @@
+"id_restaurant","id_employee","nom_poste","experience"
+1,1,Manager,1
+1,2,Directeur,1
+2,1,Directeur,0
